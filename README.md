@@ -1,5 +1,5 @@
-<strong style='font-size=16px; color:blue;'>add-nbo</strong>
-# bob10-assignment
+# add-nbo
+bob10-assignment
 
 # 과제
 32 bit 숫자가 파일에 4바이트의 크기로 저장되어 있다(network byte order). <br>
