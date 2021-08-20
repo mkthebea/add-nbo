@@ -1,4 +1,4 @@
-== add-nbo ==
+<strong style='font-size=16px; color:blue;'>add-nbo</strong>
 # bob10-assignment
 
 # 과제
